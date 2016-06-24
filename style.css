@@ -22,11 +22,13 @@ button{
     float:left;
 }
 article{
-    bottom: 36px;
+    float: center;
+    bottom: 30px;
     position: absolute;
+    
 }
 table{
-    width: 1000px;
+    width: 960px;
     height: 550px;
 }
 
