@@ -20,7 +20,7 @@ article1{
      background-color: red;
 }
 article2{
-    
+    float: none;
     width: 700px;
     height: 550px;
     background-color: blue ;
