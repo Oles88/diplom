@@ -12,9 +12,10 @@ h1{
 }
 header{
     text-align:center;
- float: center;
-    width: 400px;
-    height: 200px;
+  position: relative;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
 }
 button{
     float: left;
