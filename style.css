@@ -14,6 +14,7 @@ header{
     text-align:center;
  position: static;
     width: 400px;
+    height: 200px;
 }
 button{
     float: left;
