@@ -1,9 +1,16 @@
-#col1
-{
+#col1{
     margin-right: 2px;
     text-align: right;
 }    
 h2{
     
     text-align:center;
+}
+h1{
+    
+    text-align:center;
+}
+header{
+    text-align:center;
+    float: left;
 }
