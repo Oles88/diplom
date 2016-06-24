@@ -12,13 +12,11 @@ h1{
 }
 header{
     text-align:center;
- position: static;
+ float: center;
     width: 400px;
     height: 200px;
 }
 button{
     float: left;
 }
-article{
-    float: left;
-}
+
