@@ -12,9 +12,12 @@ h1{
 }
 header{
     text-align:center;
- position: absolute;
+ position: static;
     width: 400px;
 }
 button{
+    float: left;
+}
+article{
     float: left;
 }
