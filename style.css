@@ -12,13 +12,11 @@ h1{
 }
 header{
     text-align:center;
-  position: relative center;
+  position: relative;
     width: 300px;
     height: 35px;
     border: 3px solid #73AD21;
-    left: 50px;
+    left: 400px;
 }
-button{
-    float: left;
-}
+
 
