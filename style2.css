@@ -4,8 +4,8 @@ nav{
     width: 400px;
     height: 35px;
     left: 400px;
-    border-color: green;
-    border-width: 4px;
+    background-color: green;
+    
 }
 header{
     text-align: center;
@@ -17,18 +17,16 @@ article1{
     float: left;
     width: 500px;
     height: 100px;
-     border-width: 4px;
-     border-color: red;
+     background-color: red;
 }
 article2{
     float: left;
     width: 700px;
     height: 400px;
-     border-width: 4px;
-     border-color: red green blue yellow;
+    background-color: blue ;
 }
 article3{
-    float: none;
+    relative:n;
     width: 500px;
     height: 400px;
      border-width: 4px;
