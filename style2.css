@@ -3,7 +3,7 @@ nav{
     position: relative;
     width: 400px;
     height: 35px;
-    left: 500px;
+    left: 530px;
     background-color: green;
     
 }
@@ -15,14 +15,14 @@ button{
 }
 article1{
     float: left;
-    width: 500px;
-    height: 100px;
+    width: 450px;
+    height: 450px;
      background-color: red;
 }
 article2{
     float: left;
     width: 700px;
-    height: 400px;
+    height: 600px;
     background-color: blue ;
 }
 article3{
