@@ -7,7 +7,7 @@ h3{
     text-align:center;
 }
 h1{
-    
+    font-size: 20px;
     text-align:center;
 }
 header{
@@ -22,7 +22,7 @@ button{
     float:left;
 }
 article{
-    
+    padding-left: 200px;
     bottom: 30px;
     position: absolute;
     
