@@ -34,5 +34,6 @@ article2{
     font-weight:bold;
 }
 img{
+    position: relative;
     left:10px;
 }
