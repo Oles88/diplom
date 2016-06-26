@@ -1,7 +1,4 @@
-#col1{
-    margin-right: 20px;
-    text-align: right;
-}    
+   
 h2{
     
     text-align:center;
@@ -20,6 +17,8 @@ button{
     float:left;
 }
 
-
+img{
+ margin: 0 auto 0px auto;   
+}
 
 
