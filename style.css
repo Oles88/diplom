@@ -33,3 +33,9 @@ table{
     height: 550px;
 }
 
+div {
+    width: 900px;
+    height: 500px;
+    background-color: yellow;
+    box-shadow: 10px 10px 5px #888888;
+}
