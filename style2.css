@@ -29,7 +29,7 @@ article2{
 .clear{
     clear: both;
 }
-p{
+#col{
     text-align: center;
     font-weight:bold;
 }
