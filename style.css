@@ -19,6 +19,7 @@ button{
 }
 article{
     position: absolute;
+    float: left;
 }
 div {
   width: 1040px;
