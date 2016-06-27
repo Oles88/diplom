@@ -1,10 +1,9 @@
 nav{
     width: 400px;
     margin: 0 auto 0px auto;
+    float: left;
 }
-header{
-    text-align: center;
-}
+
 button{
     float:left;
 }
@@ -15,7 +14,7 @@ article1{
     
 }
 article2{
-    float: left;
+   
     width: 60%;
     height: 550px;
    
