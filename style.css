@@ -30,3 +30,6 @@ div {
   -moz-box-shadow:    15px 0px 8px -3px rgba(50, 50, 50, 0.75);
   box-shadow:         15px 0px 8px -3px rgba(50, 50, 50, 0.75);
 }
+#cont{
+    text-align: right;
+}
