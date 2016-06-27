@@ -18,7 +18,8 @@ button{
     float:left;
 }
 article{
-   
+   width: 1040px;
+   margin: 10px auto 50px;
     float: left;
 }
 div {
