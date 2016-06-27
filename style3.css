@@ -6,3 +6,6 @@ nav{
 button{
     float:left;
 }
+.clear{
+    clear: both;
+}
