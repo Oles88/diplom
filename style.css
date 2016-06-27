@@ -20,8 +20,8 @@ button{
 
 div {
   width: 1080px;
-  height:400px;
-  margin:50px;
+  height:850px;
+  
   background:red;
   -webkit-box-shadow: 15px 0px 8px -3px rgba(50, 50, 50, 0.75);
   -moz-box-shadow:    15px 0px 8px -3px rgba(50, 50, 50, 0.75);
