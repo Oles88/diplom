@@ -8,4 +8,8 @@ button{
 }
 .clear{
     clear: both;
+}article{
+    float: left;
+   
+    
 }
