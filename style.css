@@ -11,10 +11,13 @@ h1{
 header{
     width: 400px;
     margin: 0 auto 0px auto;
+    float: left;
 }
 
 button{
     float:left;
 }
 
-
+#cube{
+   box-shadow: 11px 7px 10px -3px #696969; 
+}
