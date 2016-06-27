@@ -11,7 +11,7 @@ h1{
 header{
     width: 400px;
     margin: 0 auto 0px auto;
-    float: left;
+    
 }
 
 button{
@@ -20,4 +20,10 @@ button{
 
 #cube{
    box-shadow: 11px 7px 10px -3px #696969; 
+}
+.boxShadow8 { 
+    width: 80%; 
+    max-width: 550px; 
+    margin: 2em auto; 
+    padding: 1em; 
 }
