@@ -17,7 +17,9 @@ header{
 button{
     float:left;
 }
-
+article{
+    position: absolute;
+}
 div {
   width: 1040px;
   height:450px;
