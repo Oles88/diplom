@@ -1,3 +1,9 @@
+body{
+    margin: 0 auto;
+    width: 1200px;
+    background-repeat: no-repeat;
+     background-image: linear-gradient(#7dbeff, #ffffff);
+}
 nav{
     width: 400px;
     margin: 0 auto 0px auto;
@@ -17,7 +23,7 @@ article2{
    
     width: 700px;
     height: 550px;
-   
+    float: right;
     
 }
 
@@ -31,4 +37,8 @@ article2{
 img{
     position: relative;
     left:50px;
+}
+h2{
+    
+    text-align:center;
 }
