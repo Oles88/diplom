@@ -14,7 +14,8 @@ button{
 }
 .clear{
     clear: both;
-}article{
+}
+article{
     float: left;
     width: 800px;
     padding-top: 8px;
