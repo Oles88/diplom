@@ -5,9 +5,8 @@ body{
      background-image: linear-gradient(#7dbeff, #ffffff);
 }
 nav{
-    width: 400px;
-    margin: 0 auto 0px auto;
-    
+    width: 532px;
+    margin: 3px auto 0px auto;
 }
 
 .wrapper {
@@ -96,4 +95,7 @@ article{
 #text{
       font-weight:bold;
       font-style:italic;
+}
+nav img {
+    margin-right: 12px;
 }

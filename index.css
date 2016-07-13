@@ -15,9 +15,8 @@ h1{
     text-align:center;
 }
 nav{
-    width: 400px;
-    margin: 0 auto 0px auto;
-    
+    width: 532px;
+    margin: 3px auto 0px auto;
 }
 
 /*button{
@@ -51,5 +50,9 @@ box-shadow:         9px 9px 8px 0px rgba(51, 41, 51, 0.77);
 }
 */
 #pictures_nav{
+    margin-right: 12px;
+}
+
+nav img {
     margin-right: 12px;
 }

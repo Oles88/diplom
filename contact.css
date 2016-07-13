@@ -1,0 +1,37 @@
+body{
+    margin: 0 auto;
+    width: 1200px;
+ background-image: linear-gradient(#7dbeff, #ffffff);
+ background-repeat: no-repeat;
+}
+
+nav{
+    width: 532px;
+    margin: 3px auto 0px auto;
+}
+.enquiry{
+    width: 440px;
+    height: 150px;
+}
+.bigbutton {
+    cursor: pointer;
+    margin-top: 8px;
+    background-color: #2e67a8;
+    border-radius: 25px;
+    border: none;
+    padding: 3px 32px;
+    font-family: arial, verdana, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+}
+article{
+    width:500px;
+    float:right;
+    margin-top: 20px;
+}
+section{
+     float:left;
+     margin-top: 70px;
+     
+}
