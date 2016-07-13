@@ -9,9 +9,10 @@ nav{
     width: 532px;
     margin: 3px auto 0px auto;
 }
-.enquiry{
+textarea{
     width: 440px;
     height: 150px;
+    
 }
 .bigbutton {
     cursor: pointer;
@@ -30,8 +31,8 @@ article{
     float:right;
     margin-top: 20px;
 }
-section{
-     float:left;
-     margin-top: 70px;
-     
+
+p{
+    float: left;
+    margin-top: 20;
 }
